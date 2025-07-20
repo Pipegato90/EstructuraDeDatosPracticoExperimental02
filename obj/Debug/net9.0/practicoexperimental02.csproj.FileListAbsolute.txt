@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Felipe Castillo\3er Semestre\Estructura de datos\Proyectos\practicoexperimental02\bin\Debug\net9.0\practicoexperimental02.exe
+C:\Users\USER\Desktop\Felipe Castillo\3er Semestre\Estructura de datos\Proyectos\practicoexperimental02\bin\Debug\net9.0\practicoexperimental02.deps.json
+C:\Users\USER\Desktop\Felipe Castillo\3er Semestre\Estructura de datos\Proyectos\practicoexperimental02\bin\Debug\net9.0\practicoexperimental02.runtimeconfig.json
+C:\Users\USER\Desktop\Felipe Castillo\3er Semestre\Estructura de datos\Proyectos\practicoexperimental02\bin\Debug\net9.0\practicoexperimental02.dll
+C:\Users\USER\Desktop\Felipe Castillo\3er Semestre\Estructura de datos\Proyectos\practicoexperimental02\bin\Debug\net9.0\practicoexperimental02.pdb
+C:\Users\USER\Desktop\Felipe Castillo\3er Semestre\Estructura de datos\Proyectos\practicoexperimental02\obj\Debug\net9.0\practicoexperimental02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Felipe Castillo\3er Semestre\Estructura de datos\Proyectos\practicoexperimental02\obj\Debug\net9.0\practicoexperimental02.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Felipe Castillo\3er Semestre\Estructura de datos\Proyectos\practicoexperimental02\obj\Debug\net9.0\practicoexperimental02.AssemblyInfo.cs
+C:\Users\USER\Desktop\Felipe Castillo\3er Semestre\Estructura de datos\Proyectos\practicoexperimental02\obj\Debug\net9.0\practicoexperimental02.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Felipe Castillo\3er Semestre\Estructura de datos\Proyectos\practicoexperimental02\obj\Debug\net9.0\practicoexperimental02.dll
+C:\Users\USER\Desktop\Felipe Castillo\3er Semestre\Estructura de datos\Proyectos\practicoexperimental02\obj\Debug\net9.0\refint\practicoexperimental02.dll
+C:\Users\USER\Desktop\Felipe Castillo\3er Semestre\Estructura de datos\Proyectos\practicoexperimental02\obj\Debug\net9.0\practicoexperimental02.pdb
+C:\Users\USER\Desktop\Felipe Castillo\3er Semestre\Estructura de datos\Proyectos\practicoexperimental02\obj\Debug\net9.0\practicoexperimental02.genruntimeconfig.cache
+C:\Users\USER\Desktop\Felipe Castillo\3er Semestre\Estructura de datos\Proyectos\practicoexperimental02\obj\Debug\net9.0\ref\practicoexperimental02.dll
